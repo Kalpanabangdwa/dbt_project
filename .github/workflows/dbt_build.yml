@@ -1,4 +1,4 @@
-name: dbt build daily
+name: dbt build daily(Branch test)
 
 on:
   schedule:
